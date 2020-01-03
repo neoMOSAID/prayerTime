@@ -10,4 +10,4 @@ another functionality is to change the english prayer name provided by the websi
 then fed to conky script via conky-prayer.sh. this script reads the content of  /tmp/nextPayerTimeA 
 and echo it using python arabic_reshaper for a proper rendering of arabic in conky 
 
-![Alt text](relative/preview.png?raw=true "preview")
+![Alt text](https://github.com/neoMOSAID/prayerTime/blob/master/preview.png?raw=true "preview")
